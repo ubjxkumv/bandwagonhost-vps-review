@@ -81,8 +81,6 @@ For audiences in China, look closely at the E-Commerce products and their listed
 4. **Check the operating responsibility.** Make sure you can install, secure, monitor, and recover the software you plan to run.
 5. **Read the current terms before checkout.** Pay particular attention to CPU limits, refund conditions, and the product’s SLA status.
 
-👉 [查看 BandwagonHost 当前 VPS 方案和可选数据中心](https://bit.ly/BandwaGon)
-
 ## Verdict
 
 This BandwagonHost review comes down to fit. The provider offers self-managed KVM VPS plans with root access, a useful set of KiwiVM controls, and multiple billing terms. Its lower advertised prices are tied to advance payment, while China-oriented networking belongs to separate products whose location and price need individual checking.
